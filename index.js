@@ -1,5 +1,5 @@
 let personagem = "batman";
-let XP = 900;
+let XP = 15000;
 
 switch (XP) {
     case XP <= 1001, XP = "ferro":
